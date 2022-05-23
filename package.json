@@ -1,0 +1,25 @@
+{
+  "name": "prof-readme-gnr8r",
+  "version": "1.0.0",
+  "description": "Generate README.md for your project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Edawgg/prof-readme-gnr8r.git"
+  },
+  "keywords": [
+    "'README.md",
+    "generator",
+    "CLI",
+    "application"
+  ],
+  "author": "Ethan 'Edawgg' M.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Edawgg/prof-readme-gnr8r/issues"
+  },
+  "homepage": "https://github.com/Edawgg/prof-readme-gnr8r#readme"
+}
