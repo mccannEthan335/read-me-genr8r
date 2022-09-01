@@ -1,6 +1,6 @@
 // TODO: Include packages needed for this application
 const inquirer = require('inquirer');
-const generateMarkdown = require('./main/generateMarkdown');
+const generateMarkdown = require('./generateMarkdown');
 const { writeFile } = require('fs').promises;
 
 
@@ -10,7 +10,7 @@ const { writeFile } = require('fs').promises;
 
   const questions = () => {
     return inquirer.prompt([
-      
+
         {
             type: 'input',
             name: 'title',
