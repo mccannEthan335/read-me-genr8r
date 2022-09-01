@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/Edawgg/prof-readme-gnr8r/issues"
   },
-  "homepage": "https://github.com/Edawgg/prof-readme-gnr8r#readme"
+  "homepage": "https://github.com/Edawgg/prof-readme-gnr8r#readme",
+  "dependencies": {
+    "inquirer": "^9.1.1"
+  }
 }
